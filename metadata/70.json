@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmeH4dKjTZYo1pdJnegsDxPt98M7pLPVA8SGty52aSrJW1/70.png",
+    "tokenId": 70,
+    "name": "fmchan-nft-test 70",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rayban"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Thin Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Big Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        }
+    ]
+}
